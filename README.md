@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-<a href="https://crissyarp.github.io/.github/screenflow">
+<a href="https://amapolalavi.github.io/.github/screenflow">
 <img src="https://img.shields.io/badge/GET_ScreenFlow-darkgreen?style=for-the-badge&logo=apple" alt="GET ScreenFlow">
 </a>
 </div>
